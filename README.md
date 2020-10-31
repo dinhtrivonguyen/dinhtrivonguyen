@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhtrivonguyen&label=Profile%20views&color=0e75b6&style=flat" alt="dinhtrivonguyen" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/wuU9Hvp5wF7xe/giphy.gif" />
 
 
 - 🔭 I’m currently working on **REBO, Developer Student Clubs FPT University Danang**
