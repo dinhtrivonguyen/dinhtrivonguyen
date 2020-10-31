@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhtrivonguyen&label=Profile%20views&color=0e75b6&style=flat" alt="dinhtrivonguyen" /> </p>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 - 🔭 I’m currently working on **REBO, Developer Student Clubs FPT University Danang**
 
 - 🌱 I’m currently learning **AR/VR, Tensorflow, Flutter**
