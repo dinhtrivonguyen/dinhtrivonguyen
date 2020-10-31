@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhtrivonguyen&label=Profile%20views&color=0e75b6&style=flat" alt="dinhtrivonguyen" /> </p>
 
-- 🔭 I’m currently working on **REBO**
+- 🔭 I’m currently working on **REBO, Developer Student Clubs FPT University Danang**
 
 - 🌱 I’m currently learning **AR/VR, Tensorflow, Flutter**
 
