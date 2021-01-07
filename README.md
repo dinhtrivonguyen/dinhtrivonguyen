@@ -40,8 +40,6 @@ JavaScript            1 hr            ████████░░░░░░
 <a href="https://instagram.com/vonguyen_dinhtri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vonguyen_dinhtri" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhtrivonguyen&show_icons=true&locale=en" alt="dinhtrivonguyen" /></p>
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dinhtrivonguyen&show_icons=true&theme=gotham" alt="dinhtrivonguyen" />
