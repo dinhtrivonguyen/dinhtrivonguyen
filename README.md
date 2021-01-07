@@ -44,5 +44,5 @@ JavaScript            1 hr            ████████░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="dinhtrivonguyen" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dinhtrivonguyen&show_icons=true&theme=gotham" alt="dinhtrivonguyen" />
 
