@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **REBO, Developer Student Clubs FPT University Danang**
 
-- 🌱 I’m currently learning **AR/VR, Tensorflow, Flutter**
+- 🌱 I’m currently learning **AR/VR, Flutter, Machine Learning**
 
 - 💬 Ask me about **AR/VR, UX/UI**
 
