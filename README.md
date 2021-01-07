@@ -1,4 +1,4 @@
-### Hi, I'm Tri, you can me Tristan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Hi, I'm Tri, you can me Tristan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhtrivonguyen&label=Profile%20views&color=0e75b6&style=flat" alt="dinhtrivonguyen" /> </p>
